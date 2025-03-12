@@ -11,11 +11,10 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 
 ## Hướng Dẫn Cài Đặt
 
-1. Clone repo này về máy của bạn:
+1. Clone repo này về máy:
 
    ```bash
    git clone https://github.com/username/repo-name.git
-   
 
 2. Để sử dụng các tài liệu trong repo này, chúng ta cần cài đặt các thư viện Python với lệnh sau:
 
