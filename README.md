@@ -1,4 +1,4 @@
-# Học Máy (MAT3533) - Khoa Toán - Cơ - Tin học (Đại học Khoa học Tự nhiên - HUS)
+# Học Máy (MAT3533)
 
 Repository này bao gồm các bài tập, tài liệu và mã nguồn Python liên quan đến môn học Học máy (MAT3533) Khoa Toán - Cơ - Tin học, Đại học Khoa học Tự nhiên (HUS).
 
