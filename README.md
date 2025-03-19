@@ -8,7 +8,7 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab2`: PHƯƠNG PHÁP K-NEAREST NEIGHBORS (K-NN) và HỒI QUY TUYẾN TÍNH.
 - `Lab3`: K-NN & HỒI QUY LOGISTIC (LOGISTIC REGRESSION).
 - `Lab4`: K-NN & HỒI QUY SOFTMAX (MULTINOMIAL LOGISTIC REGRESSION).
-- `Lab5`: GGIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH THÀNH PHẦN CHÍNH (PCA)
+- `Lab5`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH THÀNH PHẦN CHÍNH (PCA)
 - ...
 
 ## Hướng Dẫn Cài Đặt
