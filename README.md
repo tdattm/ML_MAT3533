@@ -9,6 +9,7 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab3`: K-NN & HỒI QUY LOGISTIC (LOGISTIC REGRESSION).
 - `Lab4`: K-NN & HỒI QUY SOFTMAX (MULTINOMIAL LOGISTIC REGRESSION).
 - `Lab5`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH THÀNH PHẦN CHÍNH (PCA)
+- `Lab6`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH PHÂN BIỆT TUYẾN TÍNH (LDA)
 - ...
 
 ## Hướng Dẫn Cài Đặt
