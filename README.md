@@ -10,7 +10,8 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab4`: K-NN & HỒI QUY SOFTMAX (MULTINOMIAL LOGISTIC REGRESSION).
 - `Lab5`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH THÀNH PHẦN CHÍNH (PCA)
 - `Lab6`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH PHÂN BIỆT TUYẾN TÍNH (LDA)
-- ...
+- `Lab7`: MÔ HÌNH PERCEPTRON.
+- `Lab8.1`: MÔ HÌNH ANN (MULTI LAYER PERCEPTRON CLASSIFIER VÀ ỨNG DỤNG PCA)
 
 ## Hướng Dẫn Cài Đặt
 
