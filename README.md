@@ -12,6 +12,8 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab6`: GIẢM CHIỀU DỮ LIỆU BẰNG PHÂN TÍCH PHÂN BIỆT TUYẾN TÍNH (LDA)
 - `Lab7`: MÔ HÌNH PERCEPTRON.
 - `Lab8.1`: MÔ HÌNH ANN (MULTI LAYER PERCEPTRON CLASSIFIER VÀ ỨNG DỤNG PCA)
+- `Lab8.2`: Mạng MLP cho bài toán hồi quy
+- `Lab9`: Convolution Neural Network (CNN)
 
 ## Hướng Dẫn Cài Đặt
 
