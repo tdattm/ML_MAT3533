@@ -15,6 +15,7 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab8.2`: Mạng MLP cho bài toán hồi quy
 - `Lab9`: Convolution Neural Network (CNN)
 - `Lab10`: Phương pháp phân cụm K-Means và DB-Scan
+- `Lab11`: Mô hình phân cụm GMM
 
 ## Hướng Dẫn Cài Đặt
 
