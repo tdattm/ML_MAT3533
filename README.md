@@ -16,7 +16,8 @@ Repository này bao gồm các bài tập, tài liệu và mã nguồn Python li
 - `Lab9`: Convolution Neural Network (CNN)
 - `Lab10`: Phương pháp phân cụm K-Means và DB-Scan
 - `Lab11`: Mô hình phân cụm GMM
-- `Lab12`: Mô hình Support VectorMachine - Hard Margin
+- `Lab12`: Mô hình Support Vector Machine (SVM) - Hard Margin
+- `Lab13`: Mô hình Support Vector Machine (SVM) - Soft Margin | Kernel & Multi Classes
 
 ## Hướng Dẫn Cài Đặt
 
